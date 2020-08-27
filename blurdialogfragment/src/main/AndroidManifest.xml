@@ -1,0 +1,13 @@
+<!--
+  ~ /**
+  ~  * Created by Sina Dalvand on 8/24/20 4:05 PM
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 8/24/20 4:05 PM
+  ~  */
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ir.sinadalvand.libs.blurdialogfragment">
+
+    /
+</manifest>

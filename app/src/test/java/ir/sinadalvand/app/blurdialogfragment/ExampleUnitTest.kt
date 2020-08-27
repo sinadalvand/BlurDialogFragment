@@ -1,4 +1,4 @@
-package ir.sinadalvand.app.blurfragment
+package ir.sinadalvand.app.blurdialogfragment
 
 import org.junit.Test
 

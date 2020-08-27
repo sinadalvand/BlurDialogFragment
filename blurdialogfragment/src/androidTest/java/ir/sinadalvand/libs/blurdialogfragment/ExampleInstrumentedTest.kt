@@ -1,4 +1,12 @@
-package ir.sinadalvand.app.blurfragment
+/*
+ * *
+ *  * Created by Sina Dalvand on 8/24/20 4:05 PM
+ *  * Copyright (c) 2020 . All rights reserved.
+ *  * Last modified 8/24/20 4:05 PM
+ *
+ */
+
+package ir.sinadalvand.libs.blurdialogfragment
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +27,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("ir.sinadalvand.app.blurfragment", appContext.packageName)
+        assertEquals("ir.sinadalvand.libs.blurfragment.test", appContext.packageName)
     }
 }

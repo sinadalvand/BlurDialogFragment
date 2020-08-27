@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name = "BlurFragment"
+include ':app',':blurdialogfragment'
+rootProject.name = "BlurDialogFragment"
