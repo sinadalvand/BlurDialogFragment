@@ -1,4 +1,14 @@
 # BlurDialogFragment
 blur background dialog fragment for android (androidx)
 
-<img src="https://raw.githubusercontent.com/hzandi/BlurDialogFragment/sample/screen_shot.png" width=20%>
+# Sample:
+<img src="https://github.com/sinadalvand/BlurDialogFragment/blob/master/art/screen_shot.png" width=20%>
+
+
+# Production:
+<img src="https://github.com/sinadalvand/BlurDialogFragment/blob/master/art/1.jpg" width=20%>
+<img src="https://github.com/sinadalvand/BlurDialogFragment/blob/master/art/2.jpg" width=20%>
+
+
+
+
